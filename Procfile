@@ -1,0 +1,1 @@
+web: gunicorn ppt.wsgi --log-file -
